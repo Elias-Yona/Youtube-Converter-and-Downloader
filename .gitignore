@@ -1,0 +1,6 @@
+*.cfg
+*.log
+Scripts/
+Lib/
+Include/
+*.vscode
